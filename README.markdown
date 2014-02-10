@@ -6,7 +6,7 @@ The advantages of CL-TEST-MORE are:
 
 * Just one file to load
 * Test with just simple functions
-* Results format is "Test Anything Protocol"
+* Result format is "Test Anything Protocol"
 
 ## Synopsis
 
@@ -85,5 +85,5 @@ Please report any bugs to e.arrows@gmail.com, or post an issue to [GitHub](http:
 
 ## License
 
-Copyright (c) 2010-2011 Eitarow Fukamachi &lt;e.arrows@gmail.com&gt;  
+Copyright (c) 2010-2014 Eitarow Fukamachi &lt;e.arrows@gmail.com&gt;  
 CL-TEST-MORE is freely distributable under the MIT License (http://www.opensource.org/licenses/mit-license).
