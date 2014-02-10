@@ -6,7 +6,7 @@ The advantages of CL-TEST-MORE are:
 
 * need to load just one file
 * test with just simple functions
-* report results with "Test Anything Protocol" format
+* report results in "Test Anything Protocol" format
 
 ## Synopsis
 
