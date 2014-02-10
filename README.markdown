@@ -4,9 +4,9 @@ CL-TEST-MORE is inspired by Test::More, a module of Perl.
 
 The advantages of CL-TEST-MORE are:
 
-* Just one file to load
-* Test with just simple functions
-* Result format is "Test Anything Protocol"
+* need to load just one file
+* test with just simple functions
+* report results with "Test Anything Protocol" format
 
 ## Synopsis
 
